@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 66: May 16 
+<!-- ##### (delete me or comment me out) -->
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 2 units in Colt Steele's Web Developer Bootcamp course, Advanced Beginner Start
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Did [JS Stalker exercise](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/2_JS_Stalker_Exercise) and [Age Calculator exercise](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/3_Age_Calculator) in [Colt Steele's Web Developer course](https://www.udemy.com/the-web-developer-bootcamp). Decided to plunk down the money for [Dain Miller's Advanced Beginner Challenge](http://advancedbeginnerchallenge.com/). Included a great video ["The Myth of the 'Real Javascript Developer'](https://youtu.be/Xt5qpbiqw2g)." I worked on Colt's course at lunch. 
+I told my family I had a meetup and went to work by myself at a coffeeshop for an hour to start off the Advanced Beginner Challenge. Was disappointed to find that they changed their hours and now close at 8 p.m. That's why  I only got an hour in. I'm going to do it again on Thursday.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [my Colt Steele repo](https://github.com/tonomoshia/ColtSteele)
