@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 63: May 13, 2017,
+### Day 63: May 13, 2017
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: Purrfect Match landing page completion in [Colt Steele's Web Developer course](https://www.udemy.com/the-web-developer-bootcamp).
@@ -9,7 +9,7 @@
 
 **Link to work:** [Purrfect Match Landing Page](https://github.com/tonomoshia/ColtSteele/tree/master/2_CSS_Units/2_Intermediate_CSS/11_Bootstrap_Landing_Page)
 
-### Day 64: May 14, 2017,
+### Day 64: May 14, 2017
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: small tweak to tonomoshia.github.io
@@ -19,7 +19,7 @@
 **Link to work:** [tonomoshia.github.io](https://github.com/tonomoshia/tonomoshia.github.io)
 
 
-### Day 65: May 15, 2017,
+### Day 65: May 15, 2017
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: Worked in [Colt Steele's Web Developer course](https://www.udemy.com/the-web-developer-bootcamp)
@@ -28,7 +28,7 @@
 
 **Link to work:** [Script Demo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/1_Script_Demo)
 
-### Day 66: May 16
+### Day 66: May 16, 2017
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: 2 units in Colt Steele's Web Developer Bootcamp course, Advanced Beginner Start
@@ -37,3 +37,16 @@
 After work I told my family I had a meetup and went to work by myself at a coffeeshop for another hour to start off the Advanced Beginner Challenge. Was disappointed to find that they changed their hours and now close at 8 p.m. That's why  I only got an hour in. I'm going to do it again on Thursday.
 
 **Link to work:** [my Colt Steele repo](https://github.com/tonomoshia/ColtSteele)
+
+### Day 67: May 17, 2017
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: 2 units in Colt Steele's Web Developer Bootcamp course, Advanced Beginner Start
+
+**Thoughts:** Boolean Logic and Logical Operators in Colt Steele's course. New concepts: "truthy" and "falsy" values. Falsy values: false, 0, ""(empty string), null, undefined, NaN. Everything else is "truthy".
+
+In Advanced Beginner Challenge, listened to 5 members-only podcasts at work:  (1) Freelancing 101: How to Start Freelancing NOW w/out Knowing Any Programming (2) Updates & the Concept Behind the ABC Course (3) The 1% A Day Formula (4) How to Stop Your Procrastination (5) Mental Framework: KSE - Knowledge, Strategy, Execution. Best ones: Freelancing 101: How to Start Freelancing NOW w/out Knowing Any Programming & The 1% A Day Formula.
+
+Attended learntoprogram.tv's webinar on "Projects and Portfolios: Getting Your First Job in Software".
+
+**Link to work:** no work in text editor or github today. [my Colt Steele repo](https://github.com/tonomoshia/ColtSteele)
