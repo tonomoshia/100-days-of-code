@@ -50,3 +50,13 @@ In Advanced Beginner Challenge, listened to 5 members-only podcasts at work:  (1
 Attended learntoprogram.tv's webinar on "Projects and Portfolios: Getting Your First Job in Software".
 
 **Link to work:** no work in text editor or github today. [my Colt Steele repo](https://github.com/tonomoshia/ColtSteele)
+
+### Day 68: May 18, 2017
+
+**Today's Progress:** JS Conditionals in Colt Steele's Web Developer Bootcamp and Day 3 of Advanced Beginner Challenge
+
+**Thoughts:** Read [Building an App With Vue.js ](https://auth0.com/blog/build-an-app-with-vuejs/)
+Watched Evan You's video--[Why Vue.js](https://youtu.be/D_z-RAweP1k).
+Completed JS Conditionals learning and exercises.
+
+**Link to work:** [my Colt Steele JS COnditionals repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/4_JS_Conditionals)
