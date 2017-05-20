@@ -59,4 +59,33 @@ Attended learntoprogram.tv's webinar on "Projects and Portfolios: Getting Your F
 Watched Evan You's video--[Why Vue.js](https://youtu.be/D_z-RAweP1k).
 Completed JS Conditionals learning and exercises.
 
-**Link to work:** [my Colt Steele JS COnditionals repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/4_JS_Conditionals)
+**Link to work:** [my Colt Steele JS Conditionals repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/4_JS_Conditionals)
+
+### Day 69: May 19, 2017
+
+**Today's Progress:** Colt Steele's Web Developer Bootcamp Udemy course, day 4 of Advanced Beginner Challenge, Coder Catchup podcasts.
+
+**Colt Steele's Web Developer Bootcamp Udemy Course: **
+Guessing Game Code Along
+
+**Listened to Coder Catchup Podcasts:**
+
+1. [Handy git tips to get you out of trouble](http://codercatchup.com/episodes/53731-episode-097-handy-git-tips-to-get-you-out-of-trouble)
+2. [Github Just Launched What!?](http://codercatchup.com/episodes/47436-episode-087-github-just-launched-what)
+
+**Advanced Beginner Challenge**
+
+*Podcasts (private links):*
+
+1. Mental Framework: Want a More Sophisticated Result? Be More Sophisticated
+2. Freelancing 102: How to Set Up Your Business & Structure Client Contracts/Projects
+3. 2 Key Time Management Tips
+4. Freelancing 103: How to Generate Leads in a Service Based Business
+
+*Reading:*
+[Build a Vue.js Website in 4 Steps](Build a Vue.js Website in 4 Steps)
+
+*Video:*
+[JavaScript Conference Presentation: Learn ES6 Insights and Tips](https://youtu.be/bwZJEcKvvoE)
+
+**Link to work:** [my Colt Steele Guessing Game repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/5_Guessing_Game)
