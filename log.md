@@ -95,3 +95,62 @@ Guessing Game Code Along
 [Building a single page application with vanilla js](https://dev.to/vinay20045/building-a-single-page-application-with-vanilla-js)
 
 **Link to work:** [my Colt Steele Guessing Game repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/5_Guessing_Game)
+
+
+### Day 70: May 20, 2017
+
+**Today's Progress:** [Colt Steele's Web Developer Bootcamp Udemy course]((https://www.udemy.com/the-web-developer-bootcamp/), day 4 work of [Advanced Beginner Challenge](https://www.advancedbeginnerchallenge.com/), added projects page (privately as I am still working on it) to [tonomoshia.com](http://www.tonomoshia.com). This is Saturday, so I was planning to get a lot done. I was handicapped by the fact that my Macbook Pro charger stopped working after I dropped it last night, so I was unable to get any coding done at Saturday Coding CLub today. I read a book (Remote) and actually finished it, so there's that. I have only been able to work on my iMac. Nothing wrong with that, but I am able to work anywhere with my Macbook Pro.
+
+**Colt Steele's Web Developer Bootcamp Udemy Course: **
+
+1. Loops (98-99)
+2. While Loops Exercise (100)
+3. While Loops Problem Set (101-102)
+
+
+**Advanced Beginner Challenge**
+
+*Podcasts (private links):*
+
+1. Day 4 Podcast
+2. Mental Framework: Chess Like Thinking
+
+*Podcasts (public links):* none
+
+*Reading:*
+[Build an App with Vue.js: From Authentication to Calling an API](https://auth0.com/blog/build-an-app-with-vuejs/)
+
+*New terms:*
+
+1. JWT (JSON web token): JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. [Intro to JWT from Auth0](https://jwt.io/introduction/)
+2. groovy scripts (from node.js at netflix video): [Apache Groovy](http://groovy-lang.org/) is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, Domain-Specific Language authoring, runtime and compile-time meta-programming and functional programming.
+3. [orthogonal](https://english.stackexchange.com/questions/12219/usage-of-the-word-orthogonal-outside-of-mathematics) (from Zero Framework Manisfesto): the behaviour of one component has no bearing on (is isolated from) other components.
+
+*Video:*
+
+1. [How to Set Up LinkedIn to Get First Web Dev Job](https://youtu.be/reMFCighySg)
+2. [Node.js at Netflix](https://youtu.be/p74282nDMX8?list=PLfXiENmg6yyUpIVY9XVOkbdmBPx6PUm9_)
+
+*Productive Activity based on ABC material:*
+
+1. Installed [MeisterTask app](https://www.meistertask.com/app/dashboardfr) on phone and mac
+2. Opened an [Auth0 account](https://auth0.com/)
+3. Opened a [FreshBooks account](https://www.freshbooks.com/)
+4. Opened a [Bonsai account](https://hellobonsai.com/)
+
+
+**Other Reading:**
+
+1. [The Zero Framework Manifesto](https://bitworking.org/news/2014/05/zero_framework_manifesto)
+2. [Look Ma, No Frameworks](http://codeofrob.com/entries/look-ma,-no-frameworks.html)
+
+**Other Productive Activity:**
+
+1. Forked [Vinay NP's Vanilla JS repo](https://github.com/vinay20045/vinay20045.github.io)  and played around with it.
+2. Updated [Basecamp](https://basecamp.com/) checkins.
+
+
+**Link to work:**
+
+1. [my Colt Steele While Loops repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/6_While_Loops)
+2. [my Colt Steele While Loops Problem Set repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/7_While_Loops_Problem_Set)
