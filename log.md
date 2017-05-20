@@ -82,10 +82,16 @@ Guessing Game Code Along
 3. 2 Key Time Management Tips
 4. Freelancing 103: How to Generate Leads in a Service Based Business
 
+*Podcasts (public link):*
+[Web Dev Q&A - Freelancing, Upgrading Your Career & How to Solve Your Own Problems w/ the Edge Effect](https://youtu.be/bwZJEcKvvoE)
+
 *Reading:*
 [Build a Vue.js Website in 4 Steps](Build a Vue.js Website in 4 Steps)
 
 *Video:*
 [JavaScript Conference Presentation: Learn ES6 Insights and Tips](https://youtu.be/bwZJEcKvvoE) (I really enjoyed this video!)
+
+**Other Reading:**
+[Building a single page application with vanilla js](https://dev.to/vinay20045/building-a-single-page-application-with-vanilla-js)
 
 **Link to work:** [my Colt Steele Guessing Game repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/5_Guessing_Game)
