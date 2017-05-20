@@ -86,6 +86,6 @@ Guessing Game Code Along
 [Build a Vue.js Website in 4 Steps](Build a Vue.js Website in 4 Steps)
 
 *Video:*
-[JavaScript Conference Presentation: Learn ES6 Insights and Tips](https://youtu.be/bwZJEcKvvoE)
+[JavaScript Conference Presentation: Learn ES6 Insights and Tips](https://youtu.be/bwZJEcKvvoE) (I really enjoyed this video!)
 
 **Link to work:** [my Colt Steele Guessing Game repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/5_Guessing_Game)
