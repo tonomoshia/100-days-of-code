@@ -154,3 +154,48 @@ Guessing Game Code Along
 
 1. [my Colt Steele While Loops repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/6_While_Loops)
 2. [my Colt Steele While Loops Problem Set repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/7_While_Loops_Problem_Set)
+
+
+### Day 71: May 21, 2017
+
+**Today's Progress:** [Colt Steele's Web Developer Bootcamp Udemy course]((https://www.udemy.com/the-web-developer-bootcamp/), day 5 work of [Advanced Beginner Challenge](https://www.advancedbeginnerchallenge.com/). I usually take Sundays off (not on purpose) so this is a pleasant step in the right direction.
+I expected this JavaScript work to be a lot harder than it is. I'm glad it is less scary that I perceived. I realize that it is just the beginning though. I have completed 109 of 336 items in the Udemy course, so I am 32% complete.
+
+**Colt Steele's Web Developer Bootcamp Udemy Course: ** *(Yay, finished section 9: Javascript Basics: Control FLow! Next section is 10: JavaScript Basics: Functions.)*
+
+1. Annoy-0-Matic (with While Loops) (103)
+2. Introduction to For Loops (104-105)
+3. For Loops Quick Exercises (106)
+4. For Loops Problem Set (107 and 108)
+
+
+**Advanced Beginner Challenge**
+
+*Podcasts (private links):*
+
+1. Mental Framework: Strategy vs Tactics (+ How to Upgrade Your Mental Operating System)
+2. Mental Framework: Goals vs. Vision
+3. The Importance of "Reading in Order"
+
+*Reading:*
+
+1. [Create a POS System in Vue.js - Part 1](http://alexsears.com/article/create-pos-system-in-vuejs-part-1/)
+2. [The Meditations of Marcus Aurelius](http://www.bartleby.com/2/3/2.html) (recommended by Tim Ferriss as well)
+
+> "4. Remember how long thou hast been putting off these things, and how often thou hast received an opportunity from the gods, and yet dost not use it. Thou must now at last perceive of what universe thou art a part, and of what administrator of the universe thy existenc e is an efflux, and that a limit of time is fixed for thee, which if thou dost not use for clearing away the clouds from thy mind, it will go and thou wilt go, and it will never return."
+
+>   "7. Do the things external which fall upon thee distract thee? Give thyself time to learn something new and good, and cease to be whirled around. But then thou must also avoid being carried about the other way. For those too are triflers who have wearied themselves in life by their activity, and yet have no object to which to direct every movement, and, in a word, all their thoughts."
+
+*Video:*
+
+1. [RailsConf 2015 - Closing Keynote by Kent Beck](https://youtu.be/aApmOZwdPqA)
+
+*Productive Activity based on ABC material:*
+
+1. Already subscribed to [Javacript Weekly newsletter](http://javascriptweekly.com/). Now I have to start reading the emails when they come.  Last one came May 19. They come every Friday. Calendaring for Friday nights.
+
+**Link to work:**
+
+1. [my Colt Steele Annoy-O-Matic repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/8_Annoy_O_Matic)
+2. [my Colt Steele For Loops repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/9_For_Loops)
+3. [my Colt Steele For Loops Problem Set repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/10_For_Loops_Problem_Set)
