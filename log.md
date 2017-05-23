@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+I tracked previous days in Basecamp but decided to bow to the protocol and start keeping this log. Will add previous dates if I feel it makes sense at a later time.
+
 ### Day 63: May 13, 2017
 <!-- ##### (delete me or comment me out) -->
 
@@ -199,3 +201,50 @@ I expected this JavaScript work to be a lot harder than it is. I'm glad it is le
 1. [my Colt Steele Annoy-O-Matic repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/8_Annoy_O_Matic)
 2. [my Colt Steele For Loops repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/9_For_Loops)
 3. [my Colt Steele For Loops Problem Set repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/10_For_Loops_Problem_Set)
+
+### Day 72: May 22, 2017
+
+**Today's Progress:** [Colt Steele's Web Developer Bootcamp Udemy course]((https://www.udemy.com/the-web-developer-bootcamp/), day 6 work of [Advanced Beginner Challenge](https://www.advancedbeginnerchallenge.com/).
+
+**Colt Steele's Web Developer Bootcamp Udemy Course: ** *Have moved into section 10 on Javascript Functions.*
+
+1. Unit Objectives (109)
+2. Introduction to Functions (110)
+3. Arguments (111)
+4. The Return Keyword (112)
+5. Functions Quiz (113)
+6. Functions Problem Set (114)
+7. Functions Problem Set Solution (115)
+
+**Advanced Beginner Challenge**
+
+*Podcasts (private links):*
+
+None. I have now heard them all, until he makes a new one.
+
+*Podcasts (public links):*
+
+[Twitter is Your Web Career Secret Weapon](https://youtu.be/eJaiz2yvrLA)
+
+*Reading:*
+
+[Building a React App w/User Login (Authentication)](https://www.sitepoint.com/tutorial-build-a-react-js-application-with-user-login-and-authentication/)
+
+*New term(s):*
+
+[runtime](https://techterms.com/definition/runtime): Runtime is the period of time when a program is running. It begins when a program is opened (or executed) and ends with the program is quit or closed. . . .When a program is in the runtime phase, the application is loaded into RAM. This includes the executable file and any libraries, frameworks, or other files referenced by the program. When the program is quit, the runtime period ends and the memory used by the program is made available for use by other programs.
+
+*Video:*
+
+[Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://youtu.be/8aGhZQkoFbQ)
+
+**Other Reading:**
+
+1. Started reading [The Great ScrumMaster by Zuzana Sochova](http://amzn.to/2qb26Pr) (a book)
+2. [How to Use Git for WordPress Development](https://premium.wpmudev.org/blog/git-for-wordpress-development/)
+3. [Keeping WordPress under version control with git](http://stevegrunwell.github.io/wordpress-git/#/) (slides)
+
+**Link to work:**
+
+1. [my Colt Steele Functions Exercise (Quiz) repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/3_Javascript_Basics_Functions/01_Functions_Exercise)
+2. [my Colt Steele Functions Problem Set repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/3_Javascript_Basics_Functions/02_Functions_Problem_set)
