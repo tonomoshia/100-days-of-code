@@ -283,26 +283,13 @@ None. I have now heard them all, until he makes a new one.
 
 **Today's Progress:** [Colt Steele's Web Developer Bootcamp Udemy course]((https://www.udemy.com/the-web-developer-bootcamp/), day 7 work of [Advanced Beginner Challenge](https://www.advancedbeginnerchallenge.com/).
 
-**Colt Steele's Web Developer Bootcamp Udemy Course: ** *Finished section 10 on Javascript Functions.*
+**Colt Steele's Web Developer Bootcamp Udemy Course:** *Finished section 10 on Javascript Functions.*
 
 1. Scope Code Along (116)
 2. Scope Quiz (117)
 3. Higher Order Functions Code Along (118)
 
 **Advanced Beginner Challenge**
-
-
-*Podcasts (public links):*
-
-
-
-*Reading:*
-
-
-
-*New term(s):*
-
-
 
 *Video:*
 
