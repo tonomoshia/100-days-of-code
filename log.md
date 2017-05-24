@@ -98,6 +98,7 @@ Guessing Game Code Along
 
 **Link to work:** [my Colt Steele Guessing Game repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/5_Guessing_Game)
 
+<<<<<<< Updated upstream
 
 ### Day 70: May 20, 2017
 
@@ -109,6 +110,14 @@ Guessing Game Code Along
 2. While Loops Exercise (100)
 3. While Loops Problem Set (101-102)
 
+=======
+### Day 70: May 20, 2017
+
+**Today's Progress:** Colt Steele's Web Developer Bootcamp Udemy course, day 5 of Advanced Beginner Challenge, added projects page to tonomoshia.com.
+
+**Colt Steele's Web Developer Bootcamp Udemy Course: **
+
+>>>>>>> Stashed changes
 
 **Advanced Beginner Challenge**
 
@@ -117,11 +126,17 @@ Guessing Game Code Along
 1. Day 4 Podcast
 2. Mental Framework: Chess Like Thinking
 
+<<<<<<< Updated upstream
 *Podcasts (public links):* none
+=======
+*Podcasts (public link):*
+
+>>>>>>> Stashed changes
 
 *Reading:*
 [Build an App with Vue.js: From Authentication to Calling an API](https://auth0.com/blog/build-an-app-with-vuejs/)
 
+<<<<<<< Updated upstream
 *New terms:*
 
 1. JWT (JSON web token): JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. [Intro to JWT from Auth0](https://jwt.io/introduction/)
@@ -140,6 +155,20 @@ Guessing Game Code Along
 3. Opened a [FreshBooks account](https://www.freshbooks.com/)
 4. Opened a [Bonsai account](https://hellobonsai.com/)
 
+=======
+*Video:*
+1. [How to Set Up LinkedIn to Get First Web Dev Job](https://youtu.be/reMFCighySg)
+2. [Node.js at Netflix](https://youtu.be/p74282nDMX8?list=PLfXiENmg6yyUpIVY9XVOkbdmBPx6PUm9_)
+3. [Choosing a JavaScript Framework - Rob Eisenberg](https://youtu.be/6I_GwgoGm1w)
+[The State of React & React Native](https://www.youtube.com/watch?v=MGuKhcnrqGA)
+
+*Productive Activity based on ABC material:*
+1. Edited [Dain Miller's Sample Proposal](https://docs.google.com/document/d/1Iiiv_z7woKaE7EcZ0ZMmrwyfcgbi95tFnVJKYFoLjRM/edit?usp=sharing) to fit my company.
+2. Opened an [Auth0 account](https://auth0.com/)
+3. Opened a [FreshBooks account](https://www.freshbooks.com/)
+4. Opened a [Bonsai account](https://hellobonsai.com/)
+5. Installed [MeisterTask app](https://www.meistertask.com/app/dashboardfr) on phone and mac
+>>>>>>> Stashed changes
 
 **Other Reading:**
 
@@ -148,6 +177,7 @@ Guessing Game Code Along
 
 **Other Productive Activity:**
 
+<<<<<<< Updated upstream
 1. Forked [Vinay NP's Vanilla JS repo](https://github.com/vinay20045/vinay20045.github.io)  and played around with it.
 2. Updated [Basecamp](https://basecamp.com/) checkins.
 
@@ -248,3 +278,80 @@ None. I have now heard them all, until he makes a new one.
 
 1. [my Colt Steele Functions Exercise (Quiz) repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/3_Javascript_Basics_Functions/01_Functions_Exercise)
 2. [my Colt Steele Functions Problem Set repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/3_Javascript_Basics_Functions/02_Functions_Problem_set)
+
+### Day 73: May 23, 2017
+
+**Today's Progress:** [Colt Steele's Web Developer Bootcamp Udemy course]((https://www.udemy.com/the-web-developer-bootcamp/), day 7 work of [Advanced Beginner Challenge](https://www.advancedbeginnerchallenge.com/).
+
+**Colt Steele's Web Developer Bootcamp Udemy Course: ** *Finished section 10 on Javascript Functions.*
+
+1. Scope Code Along (116)
+2. Scope Quiz (117)
+3. Higher Order Functions Code Along (118)
+
+**Advanced Beginner Challenge**
+
+
+*Podcasts (public links):*
+
+
+
+*Reading:*
+
+
+
+*New term(s):*
+
+
+
+*Video:*
+
+1. [The ONE Programming Language to Learn In 2017! (NOT WHAT YOU EXPECT)](https://youtu.be/1lU1FtIQz8c) reverse engineering learning plan based on desired job title and job description in town where you want to live. not picking programming language based on trends or popularity.
+2. [FREELANCING IS SO EASY - HOW TO START NOW. Freelancing 101 & Setting Up Your Business](https://youtu.be/suWEWQufEMc) I think I listened to this before, but listening again can't hurt. [Caleb Maddix](https://www.youtube.com/channel/UC_qq3bCifgLH02Sb-59p8Bg) 15 year old entrepreneur and millionaire ("law of action, not law of attraction")
+3. [Choosing a Javascript Framework](https://youtu.be/6I_GwgoGm1w) Looks at 6 frameworks:
+  * Angular JS 1.x (deprecated)
+  * Angular 2 (all-in-one modern)
+  * Aurelia (all-in-one modern)
+  * Ember (all-in-one modern)
+  * Polymer (all-in-one modern)
+  * React (not a framework per se, view rendering only)
+
+4. [WEB DEV Before A Job: How to Get Experience](https://youtu.be/SxdrmwakXGo)
+5. [Web Developer "Portfolios" - How to Build a Badass Portfolio (aka YOUR WEBSITE) Step by Step](https://youtu.be/S7xXOBisNqo)
+
+**Productive Activity Based on ABC/Dain Input:**
+
+1. Made projects page on [tonomoshia.com](https://tonomoshia.com/) public so I can get feedback.
+2. Changed menu scheme to reflect his advice (Home | About | Projects | Contacts) except that my home is my about page so I did not change that. Also had to add a contact page. Also I still have my Favorite Podcasts and Favorite Resources links in the menu. Later I would like to put those under one menu item (stuff I like) as sub items to make the menu cleaner.
+
+**Other Podcasts:**
+
+1. [My Life for the Code: Episode 14--The Simple Programmer with John Sonmez](http://mylifeforthecode.libsyn.com/episode-14-the-simple-programmer-with-john-sonmez)
+2. [Lean-Agile Straight Talk: Skills that Developers Need to Acquire to Achieve an Agile Transformation](https://player.fm/series/lean-agile-straight-talk/skills-that-developers-need-to-acquire-to-achieve-an-agile-transformation)
+
+*Essential Skills:*
+
+  * Programming
+  * Design
+  * Refactoring
+  * Analysis: Domain analysis and technical analysis
+  * Testing
+  * Estimation
+  * DevOps
+  * Process Improvement
+
+
+**Other Reading:**
+
+Continued reading [The Great ScrumMaster by Zuzana Sochova](http://amzn.to/2qb26Pr) (a book)
+
+
+**Other Productive Activity:**
+
+1. Attended [South Florida Agile Association Scaled Agile Framework (SAFe) Meetup](https://www.meetup.com/South-Florida-Agile-Association/events/239416526/) about when you have an enterprise that is running waterfall and agile projects concurrently.
+
+2. Downloaded 172 business book summaries from [ReadItFor.Me Pro](https://pro.readitfor.me/library), some for books which I have read *(The Lean Startup, The Four Agreements, Switch, Primal Leadership, Now Discover Your Strengths, Influencer, First Break All the Rules, )* and some for books recommended by Dain Miller *(The One Thing, Do The Work)*. It is a 30 day trial set up for us by my employer, so I figured I would go in an download them all since I won't be able to read them all before our trial expires May 31. They also have video and audio summaries.
+
+**Link to work:**
+
+none, no work in text editor today.
