@@ -342,3 +342,43 @@ Continued reading [The Great ScrumMaster by Zuzana Sochova](http://amzn.to/2qb26
 **Link to work:**
 
 none, no work in text editor today.
+
+### Day 74: May 24, 2017
+
+**Today's Progress:** [Colt Steele's Web Developer Bootcamp Udemy course]((https://www.udemy.com/the-web-developer-bootcamp/), day 8 work of [Advanced Beginner Challenge](https://www.advancedbeginnerchallenge.com/).
+
+**Colt Steele's Web Developer Bootcamp Udemy Course:** *Started section 11 on Javascript Arrays.*
+
+1. Unit Objectives (119)
+2. Introduction to Arrays (120)
+3. Arrays Methods (121): push/pop, shift/unshift, indexOf, and slice.
+  * Use _push_ to add to the end of an array. Argument has the item you want to add: array.push("item")
+  * Use _pop_ to remove the last item in an array. No argument needed: array.pop()
+  * Use _shift_ to remove the first item in an array. No argument needed: array.shift()
+  * Use _unshift_ to add to the front of an array. Argument has the item you want to add: array.unshift("item")
+  * Use _indexOf_ to find the index of an item in an array. Requires argument (item you are looking for): array.indexOf("item"). Returns "-1" if the element is not present in the array.
+  * Use _slice_ to copy parts of an array. var x = y.slice(1, 3); copies items 1 through 3, not including index item 3, in the y array. Slice arguments specify starting and end points and end point is not included. Keep arguments empty if you want to copy the whole array. var x = y.slice() copies all of the y array items to the x array.
+4. Arrays Quiz (122)
+
+**Advanced Beginner Challenge**
+
+*Videos:*
+
+1. [Writing Maintainable Javascript](https://youtu.be/c-kav7Tf834)
+
+**Other Podcasts:**
+
+1. [Increasing Productivity by Slowing Down with Jason Lengstorf on Versioning Show podcast](https://www.sitepoint.com/increasing-productivity-by-slowing-down)
+
+**Other Reading:**
+
+1. Continued reading [The Great ScrumMaster by Zuzana Sochova](http://amzn.to/2qb26Pr) (a book). Up to page 51.
+2. [The Developer's Code: What Real Programmers Do](http://amzn.to/2rBVy0g)
+
+**Other Productive Activity:**
+
+Sent a link to related webinar to host of yesterdays meetup that I attended, [South Florida Agile Association Scaled Agile Framework (SAFe) Meetup](https://www.meetup.com/South-Florida-Agile-Association/events/239416526/) about when you have an enterprise that is running waterfall and agile projects concurrently. He thanked me.
+
+**Link to work:**
+
+[my Colt Steele Arrays Exercise Repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/4_Javascript_Basics_Arrays)
