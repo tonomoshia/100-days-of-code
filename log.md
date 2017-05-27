@@ -3,7 +3,6 @@
 I tracked previous days in Basecamp but decided to bow to the protocol and start keeping this log. Will add previous dates if I feel it makes sense at a later time.
 
 ### Day 63: May 13, 2017
-<!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: Purrfect Match landing page completion in [Colt Steele's Web Developer course](https://www.udemy.com/the-web-developer-bootcamp).
 
@@ -12,7 +11,6 @@ I tracked previous days in Basecamp but decided to bow to the protocol and start
 **Link to work:** [Purrfect Match Landing Page](https://github.com/tonomoshia/ColtSteele/tree/master/2_CSS_Units/2_Intermediate_CSS/11_Bootstrap_Landing_Page)
 
 ### Day 64: May 14, 2017
-<!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: small tweak to tonomoshia.github.io
 
@@ -22,7 +20,6 @@ I tracked previous days in Basecamp but decided to bow to the protocol and start
 
 
 ### Day 65: May 15, 2017
-<!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: Worked in [Colt Steele's Web Developer course](https://www.udemy.com/the-web-developer-bootcamp)
 
@@ -31,7 +28,6 @@ I tracked previous days in Basecamp but decided to bow to the protocol and start
 **Link to work:** [Script Demo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/1_Script_Demo)
 
 ### Day 66: May 16, 2017
-<!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: 2 units in Colt Steele's Web Developer Bootcamp course, Advanced Beginner Start
 
@@ -41,7 +37,6 @@ After work I told my family I had a meetup and went to work by myself at a coffe
 **Link to work:** [my Colt Steele repo](https://github.com/tonomoshia/ColtSteele)
 
 ### Day 67: May 17, 2017
-<!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: 2 units in Colt Steele's Web Developer Bootcamp course, Advanced Beginner Start
 
@@ -98,8 +93,6 @@ Guessing Game Code Along
 
 **Link to work:** [my Colt Steele Guessing Game repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/5_Guessing_Game)
 
-<<<<<<< Updated upstream
-
 ### Day 70: May 20, 2017
 
 **Today's Progress:** [Colt Steele's Web Developer Bootcamp Udemy course]((https://www.udemy.com/the-web-developer-bootcamp/), day 4 work of [Advanced Beginner Challenge](https://www.advancedbeginnerchallenge.com/), added projects page (privately as I am still working on it) to [tonomoshia.com](http://www.tonomoshia.com). This is Saturday, so I was planning to get a lot done. I was handicapped by the fact that my Macbook Pro charger stopped working after I dropped it last night, so I was unable to get any coding done at Saturday Coding CLub today. I read a book (Remote) and actually finished it, so there's that. I have only been able to work on my iMac. Nothing wrong with that, but I am able to work anywhere with my Macbook Pro.
@@ -110,14 +103,6 @@ Guessing Game Code Along
 2. While Loops Exercise (100)
 3. While Loops Problem Set (101-102)
 
-=======
-### Day 70: May 20, 2017
-
-**Today's Progress:** Colt Steele's Web Developer Bootcamp Udemy course, day 5 of Advanced Beginner Challenge, added projects page to tonomoshia.com.
-
-**Colt Steele's Web Developer Bootcamp Udemy Course: **
-
->>>>>>> Stashed changes
 
 **Advanced Beginner Challenge**
 
@@ -126,36 +111,22 @@ Guessing Game Code Along
 1. Day 4 Podcast
 2. Mental Framework: Chess Like Thinking
 
-<<<<<<< Updated upstream
-*Podcasts (public links):* none
-=======
-*Podcasts (public link):*
 
->>>>>>> Stashed changes
+*Podcasts (public links):* none
+
 
 *Reading:*
 [Build an App with Vue.js: From Authentication to Calling an API](https://auth0.com/blog/build-an-app-with-vuejs/)
 
-<<<<<<< Updated upstream
+
 *New terms:*
 
 1. JWT (JSON web token): JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. [Intro to JWT from Auth0](https://jwt.io/introduction/)
 2. groovy scripts (from node.js at netflix video): [Apache Groovy](http://groovy-lang.org/) is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, Domain-Specific Language authoring, runtime and compile-time meta-programming and functional programming.
 3. [orthogonal](https://english.stackexchange.com/questions/12219/usage-of-the-word-orthogonal-outside-of-mathematics) (from Zero Framework Manisfesto): the behaviour of one component has no bearing on (is isolated from) other components.
 
-*Video:*
 
-1. [How to Set Up LinkedIn to Get First Web Dev Job](https://youtu.be/reMFCighySg)
-2. [Node.js at Netflix](https://youtu.be/p74282nDMX8?list=PLfXiENmg6yyUpIVY9XVOkbdmBPx6PUm9_)
 
-*Productive Activity based on ABC material:*
-
-1. Installed [MeisterTask app](https://www.meistertask.com/app/dashboardfr) on phone and mac
-2. Opened an [Auth0 account](https://auth0.com/)
-3. Opened a [FreshBooks account](https://www.freshbooks.com/)
-4. Opened a [Bonsai account](https://hellobonsai.com/)
-
-=======
 *Video:*
 1. [How to Set Up LinkedIn to Get First Web Dev Job](https://youtu.be/reMFCighySg)
 2. [Node.js at Netflix](https://youtu.be/p74282nDMX8?list=PLfXiENmg6yyUpIVY9XVOkbdmBPx6PUm9_)
@@ -168,7 +139,7 @@ Guessing Game Code Along
 3. Opened a [FreshBooks account](https://www.freshbooks.com/)
 4. Opened a [Bonsai account](https://hellobonsai.com/)
 5. Installed [MeisterTask app](https://www.meistertask.com/app/dashboardfr) on phone and mac
->>>>>>> Stashed changes
+
 
 **Other Reading:**
 
@@ -177,7 +148,6 @@ Guessing Game Code Along
 
 **Other Productive Activity:**
 
-<<<<<<< Updated upstream
 1. Forked [Vinay NP's Vanilla JS repo](https://github.com/vinay20045/vinay20045.github.io)  and played around with it.
 2. Updated [Basecamp](https://basecamp.com/) checkins.
 
@@ -214,7 +184,7 @@ I expected this JavaScript work to be a lot harder than it is. I'm glad it is le
 1. [Create a POS System in Vue.js - Part 1](http://alexsears.com/article/create-pos-system-in-vuejs-part-1/)
 2. [The Meditations of Marcus Aurelius](http://www.bartleby.com/2/3/2.html) (recommended by Tim Ferriss as well)
 
-> "4. Remember how long thou hast been putting off these things, and how often thou hast received an opportunity from the gods, and yet dost not use it. Thou must now at last perceive of what universe thou art a part, and of what administrator of the universe thy existenc e is an efflux, and that a limit of time is fixed for thee, which if thou dost not use for clearing away the clouds from thy mind, it will go and thou wilt go, and it will never return."
+> "4. Remember how long thou hast been putting off these things, and how often thou hast received an opportunity from the gods, and yet dost not use it. Thou must now at last perceive of what universe thou art a part, and of what administrator of the universe thy existence is an efflux, and that a limit of time is fixed for thee, which if thou dost not use for clearing away the clouds from thy mind, it will go and thou wilt go, and it will never return."
 
 >   "7. Do the things external which fall upon thee distract thee? Give thyself time to learn something new and good, and cease to be whirled around. But then thou must also avoid being carried about the other way. For those too are triflers who have wearied themselves in life by their activity, and yet have no object to which to direct every movement, and, in a word, all their thoughts."
 
@@ -373,7 +343,10 @@ none, no work in text editor today.
 **Other Reading:**
 
 1. Continued reading [The Great ScrumMaster by Zuzana Sochova](http://amzn.to/2qb26Pr) (a book). Up to page 51.
-2. [The Developer's Code: What Real Programmers Do](http://amzn.to/2rBVy0g)
+2. [The Developer's Code: What Real Programmers Do](http://amzn.to/2rBVy0g) to page 5.
+
+**Other Video(s):**
+[Scrum Master Fundamentals - Becoming a Great Scrum Master](https://app.pluralsight.com/library/courses/scrum-master-fundamentals-scrum-master/table-of-contents)
 
 **Other Productive Activity:**
 
@@ -382,3 +355,21 @@ Sent a link to related webinar to host of yesterdays meetup that I attended, [So
 **Link to work:**
 
 [my Colt Steele Arrays Exercise Repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/4_Javascript_Basics_Arrays)
+
+
+### Day 75: May 25, 2017
+
+**Today's Progress:** [Colt Steele's Web Developer Bootcamp Udemy course]((https://www.udemy.com/the-web-developer-bootcamp/), day 9 work of [Advanced Beginner Challenge](https://www.advancedbeginnerchallenge.com/).
+
+**Colt Steele's Web Developer Bootcamp Udemy Course:** *Started ToDo List.*
+
+1. Todo List Code Along (123)
+2. Array Iteration (124)
+3. Quick Array Iteration Challenge (125)
+
+**Other Books:**
+Continued reading [The Great ScrumMaster by Zuzana Sochova](http://amzn.to/2qb26Pr) (a book). Up to page 69.
+
+**Other Productive Activity:** [WP Elevation](https://www.wpelevation.com/) WordPress Business Training Webinar
+
+**Link to work:** [my Colt Steele ToDo List Repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/4_Javascript_Basics_Arrays/02_ToDo_List)
