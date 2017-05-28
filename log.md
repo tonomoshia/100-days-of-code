@@ -373,3 +373,14 @@ Continued reading [The Great ScrumMaster by Zuzana Sochova](http://amzn.to/2qb26
 **Other Productive Activity:** [WP Elevation](https://www.wpelevation.com/) WordPress Business Training Webinar
 
 **Link to work:** [my Colt Steele ToDo List Repo](https://github.com/tonomoshia/ColtSteele/tree/master/3_Javascript/4_Javascript_Basics_Arrays/02_ToDo_List)
+
+
+### May 26: rest day
+
+### Day 76: May 27, 2017
+
+**Advanced Beginner Challenge:**
+1. I did the tutorial [the suggested tutorial](http://tutorialzine.com/2015/04/first-webapp-react/) to build a Reach app  and . .  it did not work. So there's that. Probably a problem with npm modules that have been deprecated or are not compatible with each other.
+2. Watched [ABC Tutorial Section - Introduction](private link)
+3. Replaced tutorial in number with [Codecademy Javascript](https://www.codecademy.com/courses/learn-javascript/).
+
