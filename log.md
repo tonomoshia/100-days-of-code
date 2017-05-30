@@ -380,7 +380,16 @@ Continued reading [The Great ScrumMaster by Zuzana Sochova](http://amzn.to/2qb26
 ### Day 76: May 27, 2017
 
 **Advanced Beginner Challenge:**
-1. I did the tutorial [the suggested tutorial](http://tutorialzine.com/2015/04/first-webapp-react/) to build a Reach app  and . .  it did not work. So there's that. Probably a problem with npm modules that have been deprecated or are not compatible with each other.
+1. I did [the suggested tutorial](http://tutorialzine.com/2015/04/first-webapp-react/) to build a Reach app  and . .  it did not work. So there's that. Probably a problem with npm modules that have been deprecated or are not compatible with each other.
 2. Watched [ABC Tutorial Section - Introduction](private link)
 3. Replaced tutorial in number with [Codecademy Javascript](https://www.codecademy.com/courses/learn-javascript/).
 
+
+### May 28, 2017: rest day
+
+
+### Day 77: May 29, 2017
+
+**Advanced Beginner Challenge:**
+
+I did the [suggested vue.js tutorial](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs) which is one that he had us just read a few days ago. DId it all the way through which was today and yesterday's work. It worked but without a backend, hard to tell if it actually does what we want. My [repo](https://github.com/tonomoshia/events-app-in-vuejs) for today.  Been sick since last night so this is all I did today.
