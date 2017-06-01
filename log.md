@@ -381,15 +381,37 @@ Continued reading [The Great ScrumMaster by Zuzana Sochova](http://amzn.to/2qb26
 
 **Advanced Beginner Challenge:**
 1. I did [the suggested tutorial](http://tutorialzine.com/2015/04/first-webapp-react/) to build a Reach app  and . .  it did not work. So there's that. Probably a problem with npm modules that have been deprecated or are not compatible with each other.
+
 2. Watched [ABC Tutorial Section - Introduction](private link)
+
 3. Replaced tutorial in number with [Codecademy Javascript](https://www.codecademy.com/courses/learn-javascript/).
 
 
-### May 28, 2017: rest day
+### Day 77: May 28, 2017
+**Podcasts**
 
+1. [Learn A Framework, Not a Language](https://soundcloud.com/starthere-webdev/learn-a-framework-not-a-language)
 
-### Day 77: May 29, 2017
+2. Re-listened to [How to Build a Portfolio with NO Work Experience & "Nothing to Put There" - Step by Step Formula](https://soundcloud.com/starthere-webdev/website)
 
-**Advanced Beginner Challenge:**
+### Day 78: May 29, 2017
 
-I did the [suggested vue.js tutorial](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs) which is one that he had us just read a few days ago. DId it all the way through which was today and yesterday's work. It worked but without a backend, hard to tell if it actually does what we want. My [repo](https://github.com/tonomoshia/events-app-in-vuejs) for today.  Been sick since last night so this is all I did today.
+**Advanced Beginner Challenge:** I did the [suggested vue.js tutorial](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs) which is one that he had us just read a few days ago. DId it all the way through which was today and yesterday's work. It worked but without a backend, hard to tell if it actually does what we want. My [repo](https://github.com/tonomoshia/events-app-in-vuejs) for today.  Been sick since last night so this is all I did today.
+
+### Day 79: May 30, 2017
+
+**Watched** [HumanMade seminar](http://www.outofoffice.hm/) regarding remote working (Out of the Office)
+
+**Colt Steele Udemy Web Developer Bootcamp Course:**  Todo List Code Along Part 2 (126)
+
+### Day 80: May 31, 2017
+
+**Read** [The Developer's Code: What Real Programmers Do](http://amzn.to/2rBVy0g) to page 33.
+
+**Colt Steele Udemy Course:** Started Array Problem Set. Not finished.
+
+**Received** [Clean Coder](http://amzn.to/2sgedwe) in the mail, finally. Has been on my wishlist forever.
+
+**Completed** [Codecademy Javascript Section on Variables](https://www.codecademy.com/learn/learn-javascript).
+
+**Ordered** [Turn Your Ship Around!: A True Story of Turning Followers Into Leaders](http://amzn.to/2qHRUgI) and [Turn Your Ship Around!: A Workbook for Implementing Intent-Based Leadership in Your Organization](http://amzn.to/2rrySzf) for next iteration of **Agile Florida Book Club**.
