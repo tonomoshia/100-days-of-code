@@ -415,3 +415,14 @@ Continued reading [The Great ScrumMaster by Zuzana Sochova](http://amzn.to/2qb26
 **Completed** [Codecademy Javascript Section on Variables](https://www.codecademy.com/learn/learn-javascript).
 
 **Ordered** [Turn Your Ship Around!: A True Story of Turning Followers Into Leaders](http://amzn.to/2qHRUgI) and [Turn Your Ship Around!: A Workbook for Implementing Intent-Based Leadership in Your Organization](http://amzn.to/2rrySzf) for next iteration of **Agile Florida Book Club**.
+
+### Day 81: June 1, 2017
+**To-Do:**
+
+- [ ] Read pages 148-182 in [Javascript & jQuery](http://amzn.to/2sprguq)
+
+- [ ] Read [The Developer's Code: What Real Programmers Do](http://amzn.to/2rBVy0g) to page 44.
+
+- [ ] Draft post about [Remote: Office Not Required](http://amzn.to/2rmqQpn).
+
+- [ ] Get to 50% in [Codecademy Javascript](https://www.codecademy.com/learn/learn-javascript).
