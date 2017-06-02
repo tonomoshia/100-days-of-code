@@ -417,6 +417,19 @@ Continued reading [The Great ScrumMaster by Zuzana Sochova](http://amzn.to/2qb26
 **Ordered** [Turn Your Ship Around!: A True Story of Turning Followers Into Leaders](http://amzn.to/2qHRUgI) and [Turn Your Ship Around!: A Workbook for Implementing Intent-Based Leadership in Your Organization](http://amzn.to/2rrySzf) for next iteration of **Agile Florida Book Club**.
 
 ### Day 81: June 1, 2017
+
+Attended the **WordPress Miami** Meetup. We learned about parts of a WordPress theme and what they do.
+
+Played with my two local WordPress sites (one I began with **Skillcrush** from scratch and the other made with **Local by Flywheel**) making changes and seeing what they do.
+
+Listened to podcasts:
+1. [Yonder Episode 15--Todd Ross Nienkerk](https://www.yonder.io/post/2017/5/25/episode-15-todd-ross-nienkerk) about transitioning from brick-and-mortar to distributed and pitfalls of a hybrid company.
+2. [Net Objectives  Lean Agile Straight Talk on Going Beyond Scrum Part 1](https://itunes.apple.com/us/podcast/lean-agile-straight-talk/id530595919#)
+3. [Net Objectives  Lean Agile Straight Talk on Going Beyond Scrum Part 2](https://itunes.apple.com/us/podcast/lean-agile-straight-talk/id530595919#)
+
+
+### Day 82: June 2, 2017
+
 **To-Do:**
 
 - [ ] Read pages 148-182 in [Javascript & jQuery](http://amzn.to/2sprguq)
