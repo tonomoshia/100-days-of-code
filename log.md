@@ -422,14 +422,19 @@ Attended the **WordPress Miami** Meetup. We learned about parts of a WordPress t
 
 Played with my two local WordPress sites (one I began with **Skillcrush** from scratch and the other made with **Local by Flywheel**) making changes and seeing what they do.
 
-Listened to podcasts:
+Had appointments today so I could not work through lunch on code, so no code work today.
+
+Spent a lot of time in the car today and listened to podcasts:
 1. [Yonder Episode 15--Todd Ross Nienkerk](https://www.yonder.io/post/2017/5/25/episode-15-todd-ross-nienkerk) about transitioning from brick-and-mortar to distributed and pitfalls of a hybrid company.
 2. [Net Objectives  Lean Agile Straight Talk on Going Beyond Scrum Part 1](https://itunes.apple.com/us/podcast/lean-agile-straight-talk/id530595919#)
 3. [Net Objectives  Lean Agile Straight Talk on Going Beyond Scrum Part 2](https://itunes.apple.com/us/podcast/lean-agile-straight-talk/id530595919#)
+4. [Yonder Episode 9--Lara Owen of Github](https://www.yonder.io/post/2017/3/2/episode-9-github-lara-owen) of managing communication, culture, and productivity for GitHub's team of over 600 employees.
 
 
-### Day 82: June 2, 2017
+ ### June 2, 2017-June 4, 2017
+ Bronchitis break (definitely unplanned!!!)
 
+### Day 82:
 **To-Do:**
 
 - [ ] Read pages 148-182 in [Javascript & jQuery](http://amzn.to/2sprguq)
