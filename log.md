@@ -431,16 +431,25 @@ Spent a lot of time in the car today and listened to podcasts:
 4. [Yonder Episode 9--Lara Owen of Github](https://www.yonder.io/post/2017/3/2/episode-9-github-lara-owen) of managing communication, culture, and productivity for GitHub's team of over 600 employees.
 
 
- ### June 2, 2017-June 4, 2017
+ ### June 2, 2017-June 7, 2017
  Bronchitis break (definitely unplanned!!!)
 
-### Day 82:
+### Day 82: June 8, 2017
+Bronchitis break is over
+
+Have listened to [Agile Toolkit](http://agiletoolkit.libsyn.com/) podcasts during break. 
+
+**Podcasts:**
+1. [Path to Agility 2011 - Ken Schwaber - Scrum and the Product Owner](http://agiletoolkit.libsyn.com/path-to-agility-2011-ken-schwaber-scrum-and-the-product-owner)
+2. [Tips and Advice - Continuous Integreation](http://agiletoolkit.libsyn.com/tips_and_advice_continuous_integration)
+3. [Agile 2009 - Bob Martin - The software craftsmanship movement](https://itunes.apple.com/no/podcast/agile-toolkit-podcast/id78532866#)
+
 **To-Do:**
 
-- [ ] Read pages 148-182 in [Javascript & jQuery](http://amzn.to/2sprguq)
+- [ ] Read pages 148-182 in [Javascript & jQuery](http://amzn.to/2sprguq) (Have read to 156)
 
-- [ ] Read [The Developer's Code: What Real Programmers Do](http://amzn.to/2rBVy0g) to page 44.
+- [x] Read [The Developer's Code: What Real Programmers Do](http://amzn.to/2rBVy0g) to page 44.
 
 - [ ] Draft post about [Remote: Office Not Required](http://amzn.to/2rmqQpn).
 
-- [ ] Get to 50% in [Codecademy Javascript](https://www.codecademy.com/learn/learn-javascript).
+- [x] Get to 50% in [Codecademy Javascript](https://www.codecademy.com/learn/learn-javascript).
