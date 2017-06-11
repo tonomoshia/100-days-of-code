@@ -437,12 +437,15 @@ Spent a lot of time in the car today and listened to podcasts:
 ### Day 82: June 8, 2017
 Bronchitis break is over
 
-Have listened to [Agile Toolkit](http://agiletoolkit.libsyn.com/) podcasts during break. 
+Have listened to [Agile Toolkit](http://agiletoolkit.libsyn.com/) podcasts during break and today.
 
 **Podcasts:**
 1. [Path to Agility 2011 - Ken Schwaber - Scrum and the Product Owner](http://agiletoolkit.libsyn.com/path-to-agility-2011-ken-schwaber-scrum-and-the-product-owner)
 2. [Tips and Advice - Continuous Integreation](http://agiletoolkit.libsyn.com/tips_and_advice_continuous_integration)
 3. [Agile 2009 - Bob Martin - The software craftsmanship movement](https://itunes.apple.com/no/podcast/agile-toolkit-podcast/id78532866#)
+4. [Tips and Advice - Test Driven Developemnt](http://agiletoolkit.libsyn.com/tips-and-advice-test-driven-development-bob-payne-and-george-dinwiddie)
+
+Attended a meetup: [AWS User Groups of Florida-Doral]( http://meetu.ps/e/CyrRs/1HCVB/d). Most of it way way over my head but it was interesting. There were about 25 men there and I was one of only 2 women. Learned about a cool place to learn more about docker: [Play with Docker - Classroom](http://training.play-with-docker.com/)
 
 **To-Do:**
 
@@ -450,6 +453,48 @@ Have listened to [Agile Toolkit](http://agiletoolkit.libsyn.com/) podcasts durin
 
 - [x] Read [The Developer's Code: What Real Programmers Do](http://amzn.to/2rBVy0g) to page 44.
 
+- [x] Get to 50% in [Codecademy Javascript](https://www.codecademy.com/learn/learn-javascript).
+
+### Day 83: June 9, 2017
+
+**To-Do:**
+
+- [ ] Read pages 148-182 in [Javascript & jQuery](http://amzn.to/2sprguq)
+
 - [ ] Draft post about [Remote: Office Not Required](http://amzn.to/2rmqQpn).
 
-- [x] Get to 50% in [Codecademy Javascript](https://www.codecademy.com/learn/learn-javascript).
+- [x] Get to 75% in [Codecademy Javascript](https://www.codecademy.com/learn/learn-javascript). (Next is Loops, which is where I need to be. That's why I took this little foray into Codecademy.)
+
+- [x] Try out [Play with Docker - Classroom](http://training.play-with-docker.com/) (Tried it out. Did first two modules. Will look into it more later.Not ready for this yet.)
+
+- [ ] Read [The Anatomy of a WordPress Theme](http://yoast.com/wordpress-theme-anatomy/)
+
+My MBP is too old for Docker download but I can use Docker with Digital Ocean. (I could also use the downloaded version on my iMac instead but I like portability, so until I get a new MBP . . . .) So when I am ready for that (I have a $50 credit with Digital Ocean due to student status) I will check out this step-by -step [How To Use the DigitalOcean Docker Application](https://www.digitalocean.com/community/tutorials/how-to-use-the-digitalocean-docker-application). Talked to Steve about this and he said it's because of a chip they started using in MBP in 2011.
+
+### Day 84: June 10, 2017
+
+Saturday Coding Club was great. We had a show-and-tell of apps. [Steve Witte](https://github.com/stevetwitte) showed us his restaurant HR app built in Ruby and Ruby on Rails and [Paul Senior](https://itspaulsenior.wordpress.com/) showed us his Oh Snap app built in JavaScript. We had an interesting discussion about standardization, style guides, learning vanilla JavaScript vs. learning something like Typescript, how ES2015 has still not been adopted by browsers and what we should learn going forward. Didn't do any actual coding at Club today. Was a great meeting of the minds.
+
+Listened to [JS Remote Conf 2015 talk on Marketing Yourself to Boost Your Career with Sonmez](https://devchat.tv/remote-conf-talks/marketing-yourself-to-boost-your-career-john-somnez-js-remote-conf-2015)
+
+#### To-Dos for This Week
+
+- [ ] Read pages 148-182 in [JavaScript & jQuery](http://amzn.to/2sprguq)
+
+- [ ] Draft post about [Remote: Office Not Required](http://amzn.to/2rmqQpn).
+
+- [ ] Get to 100% in [Codecademy Javascript](https://www.codecademy.com/learn/learn-javascript). (Next is Loops, which is where I need to be. That's why I took this little foray into Codecademy.)
+
+- [ ] Read [The Anatomy of a WordPress Theme](http://yoast.com/wordpress-theme-anatomy/)
+
+- [ ] Start working in [Colt Steele Wweb Developer Bootcamp](ttps://www.udemy.com/the-web-developer-bootcamp/)
+
+- [ ] Listen to [Yonder Podcast with Flexjobs' Brie Reynolds](https://www.yonder.io/post/2016/10/13/episode-6-flexjobs-brie-reynolds)
+
+- [ ] Listen to [Yonder Podcast with Buffer's Rodolphe Dutel](https://www.yonder.io/post/2016/8/18/yonder-podcast-ep2-buffers-rodolphe-dutel)
+
+- [ ] Listen to [Complete Developer Podcast "Start Your Day Right"](http://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0094-Start_Your_Day_Right.mp3)
+
+- [ ] Listen to [Complete Developer Podcast "Continual Learning with Erin Orstrom"](http://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0093-Continual_Learning_with_Erin_Orstrom.mp3)
+
+- [ ] Listen to [Complete Developer Podcast "Tech Conferences with Dani Heileman"](http://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0092-Tech_Conferences_witih_Dani_Heileman.mp3)
