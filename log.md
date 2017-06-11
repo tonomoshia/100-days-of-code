@@ -487,7 +487,7 @@ Listened to [JS Remote Conf 2015 talk on Marketing Yourself to Boost Your Career
 
 - [ ] Read [The Anatomy of a WordPress Theme](http://yoast.com/wordpress-theme-anatomy/)
 
-- [ ] Start working in [Colt Steele Wweb Developer Bootcamp](ttps://www.udemy.com/the-web-developer-bootcamp/)
+- [ ] Start working in [Colt Steele Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
 
 - [ ] Listen to [Yonder Podcast with Flexjobs' Brie Reynolds](https://www.yonder.io/post/2016/10/13/episode-6-flexjobs-brie-reynolds)
 
