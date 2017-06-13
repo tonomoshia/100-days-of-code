@@ -483,7 +483,9 @@ Listened to [JS Remote Conf 2015 talk on Marketing Yourself to Boost Your Career
 
 - [ ] Draft post about [Remote: Office Not Required](http://amzn.to/2rmqQpn).
 
-- [ ] Get to 100% in [Codecademy Javascript](https://www.codecademy.com/learn/learn-javascript). (Next is Loops, which is where I need to be. That's why I took this little foray into Codecademy.)
+- [x] Get to 100% in [Codecademy Javascript](https://www.codecademy.com/learn/learn-javascript). (Next is Loops, which is where I need to be. That's why I took this little foray into [Codecademy](https://www.codecademy.com).
+
+- [ ] Get to 25% in [Codecademy jQuery](https://www.codecademy.com/learn/jquery)
 
 - [ ] Read [The Anatomy of a WordPress Theme](http://yoast.com/wordpress-theme-anatomy/)
 
@@ -491,10 +493,16 @@ Listened to [JS Remote Conf 2015 talk on Marketing Yourself to Boost Your Career
 
 - [ ] Listen to [Yonder Podcast with Flexjobs' Brie Reynolds](https://www.yonder.io/post/2016/10/13/episode-6-flexjobs-brie-reynolds)
 
-- [ ] Listen to [Yonder Podcast with Buffer's Rodolphe Dutel](https://www.yonder.io/post/2016/8/18/yonder-podcast-ep2-buffers-rodolphe-dutel)
+- [x] Listen to [Yonder Podcast with Buffer's Rodolphe Dutel](https://www.yonder.io/post/2016/8/18/yonder-podcast-ep2-buffers-rodolphe-dutel)
 
 - [ ] Listen to [Complete Developer Podcast "Start Your Day Right"](http://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0094-Start_Your_Day_Right.mp3)
 
 - [ ] Listen to [Complete Developer Podcast "Continual Learning with Erin Orstrom"](http://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0093-Continual_Learning_with_Erin_Orstrom.mp3)
 
 - [ ] Listen to [Complete Developer Podcast "Tech Conferences with Dani Heileman"](http://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0092-Tech_Conferences_witih_Dani_Heileman.mp3)
+
+### Day 85: June 12, 2017
+
+- [x] Get to 100% in [Codecademy Javascript](https://www.codecademy.com/learn/learn-javascript).
+
+- [x] Listen to [Yonder Podcast with Buffer's Rodolphe Dutel](https://www.yonder.io/post/2016/8/18/yonder-podcast-ep2-buffers-rodolphe-dutel)
