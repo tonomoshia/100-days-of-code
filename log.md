@@ -479,7 +479,7 @@ Listened to [JS Remote Conf 2015 talk on Marketing Yourself to Boost Your Career
 
 #### To-Dos for This Week
 
-- [ ] Read pages 148-182 in [JavaScript & jQuery](http://amzn.to/2sprguq)
+- [x] Read pages 148-182 in [JavaScript & jQuery](http://amzn.to/2sprguq)
 
 - [ ] Draft post about [Remote: Office Not Required](http://amzn.to/2rmqQpn).
 
@@ -489,20 +489,38 @@ Listened to [JS Remote Conf 2015 talk on Marketing Yourself to Boost Your Career
 
 - [ ] Read [The Anatomy of a WordPress Theme](http://yoast.com/wordpress-theme-anatomy/)
 
-- [ ] Start working in [Colt Steele Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+- [x] Start working in [Colt Steele Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
 
-- [ ] Listen to [Yonder Podcast with Flexjobs' Brie Reynolds](https://www.yonder.io/post/2016/10/13/episode-6-flexjobs-brie-reynolds)
+- [x] Listen to [Yonder Podcast with Flexjobs' Brie Reynolds](https://www.yonder.io/post/2016/10/13/episode-6-flexjobs-brie-reynolds)
 
 - [x] Listen to [Yonder Podcast with Buffer's Rodolphe Dutel](https://www.yonder.io/post/2016/8/18/yonder-podcast-ep2-buffers-rodolphe-dutel)
 
-- [ ] Listen to [Complete Developer Podcast "Start Your Day Right"](http://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0094-Start_Your_Day_Right.mp3)
+- [x] Listen to [Complete Developer Podcast "Start Your Day Right"](http://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0094-Start_Your_Day_Right.mp3)
 
 - [ ] Listen to [Complete Developer Podcast "Continual Learning with Erin Orstrom"](http://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0093-Continual_Learning_with_Erin_Orstrom.mp3)
 
-- [ ] Listen to [Complete Developer Podcast "Tech Conferences with Dani Heileman"](http://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0092-Tech_Conferences_witih_Dani_Heileman.mp3)
+- [x] Listen to [Complete Developer Podcast "Tech Conferences with Dani Heileman"](http://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0092-Tech_Conferences_witih_Dani_Heileman.mp3)
 
 ### Day 85: June 12, 2017
 
 - [x] Get to 100% in [Codecademy Javascript](https://www.codecademy.com/learn/learn-javascript).
 
 - [x] Listen to [Yonder Podcast with Buffer's Rodolphe Dutel](https://www.yonder.io/post/2016/8/18/yonder-podcast-ep2-buffers-rodolphe-dutel)
+
+### Day 86: June 13, 2017
+
+- [ ] Read pages 148-182 in [JavaScript & jQuery](http://amzn.to/2sprguq) Up to page 171.
+
+- [x] Listen to [Complete Developer Podcast "Start Your Day Right"](http://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0094-Start_Your_Day_Right.mp3) Starting around minute 45 or so there is a goood discussion of scrum practices from the developer perspective. Beej keeps a notebook and prepares for every standup. Each day he has listed "done", "doing", and "impedes". He also talks about how he helps his team strictly enforce the daily standup timebox and keep things on-topics. Also talks about keeping himself on task while working on a distributed team.
+
+- [x] Start working in [Colt Steele Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) Started working on Array Problem Set. Have not cracked it yet.
+
+- [x] Listen to [Complete Developer Podcast "Tech Conferences with Dani Heileman"](http://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0092-Tech_Conferences_witih_Dani_Heileman.mp3) Less valuable than I expected as it is about a particular tech conference in Nashville called Music City Code. I was expecting a discussion on how to make the most of tech conferences.
+
+### Day 87: June 14, 2017
+
+- [x] Read pages 148-182 in [JavaScript & jQuery](http://amzn.to/2sprguq)
+
+- [x] Start working in [Colt Steele Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) Started working on Array Problem Set. Cracked first problem in problem set, *printReverse(array)*. Still working on the 2nd one, *isUniform*.
+
+- [x] Listen to [Yonder Podcast with Flexjobs' Brie Reynolds](https://www.yonder.io/post/2016/10/13/episode-6-flexjobs-brie-reynolds)
