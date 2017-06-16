@@ -511,7 +511,7 @@ Listened to [JS Remote Conf 2015 talk on Marketing Yourself to Boost Your Career
 
 - [ ] Read pages 148-182 in [JavaScript & jQuery](http://amzn.to/2sprguq) Up to page 171.
 
-- [x] Listen to [Complete Developer Podcast "Start Your Day Right"](http://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0094-Start_Your_Day_Right.mp3) Starting around minute 45 or so there is a goood discussion of scrum practices from the developer perspective. Beej keeps a notebook and prepares for every standup. Each day he has listed "done", "doing", and "impedes". He also talks about how he helps his team strictly enforce the daily standup timebox and keep things on-topics. Also talks about keeping himself on task while working on a distributed team.
+- [x] Listen to [Complete Developer Podcast "Start Your Day Right"](http://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0094-Start_Your_Day_Right.mp3) Starting around minute 45 or so there is a good discussion of scrum practices from the developer perspective. Beej keeps a notebook and prepares for every standup. Each day he has listed "done", "doing", and "impedes". He also talks about how he helps his team strictly enforce the daily standup timebox and keep things on-topics. Also talks about keeping himself on task while working on a distributed team.
 
 - [x] Start working in [Colt Steele Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) Started working on Array Problem Set. Have not cracked it yet.
 
@@ -524,3 +524,27 @@ Listened to [JS Remote Conf 2015 talk on Marketing Yourself to Boost Your Career
 - [x] Start working in [Colt Steele Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) Started working on Array Problem Set. Cracked first problem in problem set, *printReverse(array)*. Still working on the 2nd one, *isUniform*.
 
 - [x] Listen to [Yonder Podcast with Flexjobs' Brie Reynolds](https://www.yonder.io/post/2016/10/13/episode-6-flexjobs-brie-reynolds)
+
+### Day 88: June 15, 2017
+
+Wi-fi not working at work so I could not work on Udemy course during lunch as planned.
+
+- [ ] Draft post about [Remote: Office Not Required](http://amzn.to/2rmqQpn). Having a hard time getting started on this. I keep encountering more information I want to incorporate but I have done nothing!
+
+- [x] Read [The Anatomy of a WordPress Theme](http://yoast.com/wordpress-theme-anatomy/)
+
+- [x] Start working in [Colt Steele Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) Haven't cracked the last 4 yet.
+
+- [x] Start working in [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/) Completed first chapter (3 lessons).
+
+### Day 89: June 16, 2017
+
+Planning to get a new cat today so I may not get much done today.
+
+- [ ] Draft post about [Remote: Office Not Required](http://amzn.to/2rmqQpn).
+
+- [ ] Work in Chpater 2 of [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/).
+
+- [ ] Work in [Colt Steele Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/).
+
+- [ ] Listen to [Complete Developer Podcast "Continual Learning with Erin Orstrom"](http://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0093-Continual_Learning_with_Erin_Orstrom.mp3).
