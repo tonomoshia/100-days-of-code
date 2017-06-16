@@ -539,12 +539,10 @@ Wi-fi not working at work so I could not work on Udemy course during lunch as pl
 
 ### Day 89: June 16, 2017
 
-Planning to get a new cat today so I may not get much done today.
-
 - [ ] Draft post about [Remote: Office Not Required](http://amzn.to/2rmqQpn).
 
-- [ ] Work in Chpater 2 of [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/).
+- [x] Completed 7/10 of Chpater 2 of [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/).
 
 - [ ] Work in [Colt Steele Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/).
 
-- [ ] Listen to [Complete Developer Podcast "Continual Learning with Erin Orstrom"](http://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0093-Continual_Learning_with_Erin_Orstrom.mp3).
+- [x] Listen to [Complete Developer Podcast "Continual Learning with Erin Orstrom"](http://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0093-Continual_Learning_with_Erin_Orstrom.mp3). [Shownotes](http://www.completeddeveloperpodcast.com/episode-93)
