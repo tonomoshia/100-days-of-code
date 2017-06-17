@@ -546,3 +546,9 @@ Wi-fi not working at work so I could not work on Udemy course during lunch as pl
 - [ ] Work in [Colt Steele Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/).
 
 - [x] Listen to [Complete Developer Podcast "Continual Learning with Erin Orstrom"](http://media.blubrry.com/completedeveloperpodcast/content.blubrry.com/completedeveloperpodcast/CDP-Episode0093-Continual_Learning_with_Erin_Orstrom.mp3). [Shownotes](http://www.completeddeveloperpodcast.com/episode-93)
+
+- [x] Read [Don’t Skip Your Recommended Daily Dose of Scrum](https://www.frontrowagile.com/blog/posts/118-don-t-skip-your-recommended-daily-dose-of-scrum)
+
+### Day 90: June 17, 2017
+
+- [x] Completed Chapter 2 of [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/).
