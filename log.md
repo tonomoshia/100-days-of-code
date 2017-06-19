@@ -552,3 +552,9 @@ Wi-fi not working at work so I could not work on Udemy course during lunch as pl
 ### Day 90: June 17, 2017
 
 - [x] Completed Chapter 2 of [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/).
+
+### June 18, 2017
+
+Father's Day: rest day
+
+Did make project page on github with my learning path (to do, in progress and done).
