@@ -557,4 +557,35 @@ Wi-fi not working at work so I could not work on Udemy course during lunch as pl
 
 Father's Day: rest day
 
-Did make project page on github with my learning path (to do, in progress and done).
+Did make [project page on github with my learning path](https://github.com/tonomoshia/100-days-of-code/projects/1) (to do, in progress and done). Added what I am doing now and some things I plan to learn later so I have it all in one place.
+
+### June 19, 2017
+
+Got a kitten, Miley.
+
+- [x] Listened to Dain Miller's Start Here: Web Developement podcast: [25. The Secret to Project Management](https://soundcloud.com/starthere-webdev/how-to-manage-web-dev-projects-how-to-get-a-client-and-practical-experience-vs-computer-science) about managing projects, getting yout first client, and practical experience vs. computer science theory.
+
+### Day 91: June 20, 2017
+
+- [x] Worked in Chapter 3 of [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/) creating brochure website with a [Local by Flywheel](https://local.getflywheel.com/) spinned WordPress installation.
+
+- [x] Attended [South Florida Women in Agile Meetup]() on [Work Prioritization: Weighted Shortest Job First](). Interactive and informative. Also got to talked with some great people I have gotten to know, including a recruiter who told me about a business analyst job she thought I might be interested in. Will call her tomorrow.
+
+### Day 92: June 21, 2017
+
+- [x] Called Chelsea. Got her voicemail. Sent her email with my [linkedin profile link](https://www.linkedin.com/in/reiher/) and resume. Had to do a quick update on the resume to include my MBA and take off my paralegal certifications which I am no longer maintaining.
+
+- [x] Worked in Chapter 3 of [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/) creating brochure website and editing images in Photoshop.
+
+-[x] Read to page 73 in [The Developer's Code: What Real Programmers Do](http://amzn.to/2rBVy0g)
+
+- [x] Re-Listened to [Complete Developer Podcast: Start Coding Today](http://completedeveloperpodcast.com/episode-90/).
+
+Chelsea responded to her email that her account manager says they are looking for someone with 2 years experience as a Business Analyst, but she will keep my resume on file. After reading her email I realized I left my CSM off the updated resume that I did. Brain fart.
+
+
+### Day 93: June 22, 2017
+
+- [x] Worked in Chapter 3 of [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/) creating brochure website and editing images in Photoshop. Wishing I knew more Photoshop. Creating site logo and favicon took longer than necessary. Was a bit frustrating.
+
+- [x] Listened to [Complete Developer Podcast: Overcoming Imposter Syndrome](http://completedeveloperpodcast.com/episode-83/).
