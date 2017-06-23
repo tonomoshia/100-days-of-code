@@ -586,6 +586,12 @@ Chelsea responded to her email that her account manager says they are looking fo
 
 ### Day 93: June 22, 2017
 
-- [x] Worked in Chapter 3 of [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/) creating brochure website and editing images in Photoshop. Wishing I knew more Photoshop. Creating site logo and favicon took longer than necessary. Was a bit frustrating.
+- [x] Worked in Chapter 3 (lectures 13 and 14) of [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/) creating brochure website and editing images in Photoshop. Wishing I knew more Photoshop. Creating site logo and favicon took longer than necessary. Was a bit frustrating.
 
 - [x] Listened to [Complete Developer Podcast: Overcoming Imposter Syndrome](http://completedeveloperpodcast.com/episode-83/).
+
+- [x] Listened to [Advanced Beginner Challenge](https://www.advancedbeginnerchallenge.com/) podcast: How to Read Multiple Books or Do Multiple Courses at The Same Time (private link).
+
+-[x] Read to page 87 in [The Developer's Code: What Real Programmers Do](http://amzn.to/2rBVy0g)
+
+- [ ] Update resume, again.
