@@ -594,6 +594,8 @@ Chelsea responded to her email that her account manager says they are looking fo
 
 -[x] Read to page 87 in [The Developer's Code: What Real Programmers Do](http://amzn.to/2rBVy0g)
 
+- [x] Read article on WP Beginner[How WordPress Actually Works Behind the Scenes](http://www.wpbeginner.com/wp-tutorials/how-wordpress-actually-works-behind-the-scenes-infographic/)
+
 - [ ] Update resume, again.
 
 
@@ -604,4 +606,6 @@ Chelsea responded to her email that her account manager says they are looking fo
 - [ ] Update resume, again.
 
 - [ ] Finish Chapter 3 (lecture 16 and 17) of [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/).
+
+- [ ] Read article on WP Beginner [How to Properly Move Your Blog from WordPress.com to WordPress.org](http://www.wpbeginner.com/wp-tutorials/how-to-properly-move-your-blog-from-wordpress-com-to-wordpress-org/ ) and watch the [video](https://www.youtube.com/watch?v=zln3ZkCd00E). My domain with WordPress.com is expiring August 22, so I would like to get this done. I thought about it last year but it seemed like an unnecessary hassle despite the fact that I am paying for hosting at bluehost.com that I am not using. Bleh.
 
