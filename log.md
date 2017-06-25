@@ -601,11 +601,23 @@ Chelsea responded to her email that her account manager says they are looking fo
 
 ### Day 94: June 23, 2017
 
-- [ ] Listen to [Complete Developer Podcast: Laws of Programming](http://completedeveloperpodcast.com/episode-96/)
+- [x] Read to page 17 in [Turn This Ship Around]() For Agile Florida Book Club.
+
+- [ ] Listen to [Complete Developer Podcast: Laws of Programming](http://completedeveloperpodcast.com/episode-96/) (Started, did not finish)
 
 - [ ] Update resume, again.
 
-- [ ] Finish Chapter 3 (lecture 16 and 17) of [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/).
+- [ ] Finish Chapter 3 (lecture 16 and 17) of [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/). **(Finished 16 at lunch.)**
 
-- [ ] Read article on WP Beginner [How to Properly Move Your Blog from WordPress.com to WordPress.org](http://www.wpbeginner.com/wp-tutorials/how-to-properly-move-your-blog-from-wordpress-com-to-wordpress-org/ ) and watch the [video](https://www.youtube.com/watch?v=zln3ZkCd00E). My domain with WordPress.com is expiring August 22, so I would like to get this done. I thought about it last year but it seemed like an unnecessary hassle despite the fact that I am paying for hosting at bluehost.com that I am not using. Bleh.
+### Day 95: June 24, 2017
+
+- [x] Finish Chapter 3 (lecture 16 and 17) of [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/). (Finished 16 yesterday.)
+
+- [x] Read article on WP Beginner [How to Properly Move Your Blog from WordPress.com to WordPress.org](http://www.wpbeginner.com/wp-tutorials/how-to-properly-move-your-blog-from-wordpress-com-to-wordpress-org/ ) and watch the [video](https://www.youtube.com/watch?v=zln3ZkCd00E). My domain with WordPress.com is expiring August 22, so I would like to get this done. I thought about it last year but it seemed like an unnecessary hassle despite the fact that I am paying for hosting at bluehost.com that I am not using. Bleh.
+
+- [ ] Update resume, again.
+
+- [x] Finish listening to [Complete Developer Podcast: Laws of Programming](http://completedeveloperpodcast.com/episode-96/)
+
+- [x] Start Chapter 4 of [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/). (Did lecture 18 - Modify homepage and import sample.)
 
