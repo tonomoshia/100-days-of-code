@@ -621,3 +621,62 @@ Chelsea responded to her email that her account manager says they are looking fo
 
 - [x] Start Chapter 4 of [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/). (Did lecture 18 - Modify homepage and import sample.)
 
+### June 25-26, 2017
+
+Doctor's appointment, sick baby and speech therapy appointment cut into my usual coding time. Used all the driving I had to to do to catch up on podcasts:
+
+
+1. WordPress Reources Podcast 342: [Learn More About WordPress with These Blogs](https://yourwebsiteengineer.com/342-learn-more-about-wordpress-with-these-blogs/)
+
+2. Complete Developer Podcast: [The Fragile Manifesto](http://completedeveloperpodcast.com/episode-77/) about what can go wrong when Scrum is implemented incorrectly. Scrum Anti-Patterns.
+
+3. Complete Developer Podcast: [Community Involvement](http://completedeveloperpodcast.com/episode-80/)
+
+### Day 96: June 27, 2017
+
+- [x] Resolved account limitation issue with Business Paypal account.
+
+- [x] Attended [Meetup on SAFe](https://www.meetup.com/South-Florida-Agile-Association/events/239519979/) at 7pm
+
+- [ ] Started working in lecture 19 of Chapter 4 [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/). Mark when finished.
+
+**Your Website Engineer Podcasts:**
+1. [Episode 331: Know Your Visitors: Google Analytics](https://yourwebsiteengineer.com/331-know-your-visitors-google-analytics/)
+
+2. [Epsiode 341: A Look at WordPress 4.8](https://yourwebsiteengineer.com/341-a-look-at-wordpress-4-8/)
+
+3. [Episode 340: Learn More WordPress with these Other Podcasts](https://yourwebsiteengineer.com/340-learn-more-wordpress-with-these-other-podcasts/)
+
+4. [Episode 339: How to Build a Portfolio Website](https://yourwebsiteengineer.com/336-how-to-build-a-business-website-with-wordpress/)
+
+5. [Episode 336: How to Build a Business Website with WordPress](https://yourwebsiteengineer.com/336-how-to-build-a-business-website-with-wordpress/)
+
+
+### Day 97: June 28, 2017
+
+- [x] Finished lecture 19 of Chapter 4 [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/).
+
+
+**Podcasts:**
+
+1. [Your Website Engineer Podcast: Episode 239 – Customizing Your WordPress Login Screen](https://yourwebsiteengineer.com/239-customizing-your-wordpress-login-screen/)
+
+2. [Your Website Engineer Podcast: Episode 317 – Work on Your Sites on Your Computer with Local](https://yourwebsiteengineer.com/317-work-sites-computer-local/)
+
+2. [Learn to Code with Me Season 3, Episode 13: High School Dropout to Salesforce Admin with Zac Otero](http://learntocodewith.me/podcast/salesforce-admin-zac-otero/)
+
+### Day 98: June 29, 2017
+
+ - [x] Updated resume and sent to new recruiter. I am meeting with her next Monday.
+
+ - [x] Completed lecture 20 of Chapter 4 [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/).
+
+### Day 99: June 30, 2017
+
+ - [x] Completed lecture 21 of Chapter 4 [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/).
+
+### Day 100: July 1, 2017
+
+At [Saturday Coding Club Meetup](https://www.meetup.com/broward-ruby/events/240992829/) we got a chance to look at the guts of [Steve Witte's](https://github.com/stevetwitte) new side project, a twitter clone for investment time, time spent working on internal software for a company.
+
+I also worked on the migration of [my wordpress.com site](https://www.tonomoshia.com) to a wordpress.org installation](https://www.paralegalprogrammer.com) on Bluehost. I do think some of my posts/pages did not make it over. I created a [staging environment](http://www.paralegalprogrammer.com/staging/1499/), installed a new theme (Bento) set up Google Anlaytics, Jetpack and Akismet and updated some pages and posts. Read the [theme manual for Bento](http://satoristudio.net/bento-manual/)
