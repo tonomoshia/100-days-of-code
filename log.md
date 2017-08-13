@@ -684,3 +684,7 @@ I also worked on the migration of [my wordpress.com site](https://www.tonomoshia
 Finally started my draft on my post about the book Remote. I finished it May 20, but have been unable to sit down and get started. I started today and saved it as a draft. As I have been thinking about over this past 6 weeks, it has been become a gigantic post with resources and ideas that are not from the book. I may make a separate page just for Remote Workers resources to include books, podcasts and groups.
 
 Yay for Day 100. Have not decided what is better. Should I start a new 100, or continue adding days. I have seen both. I have also seen the 301 day challenge. the remaining 64 are used for job search. Also the 100 day deep work challenge. I do feel I need something to keep me moving forward and working on a more or less daily basis. Otherwise I will "get to it when I get to it" and that means not getting to it. I need a commitment. I will think it over over the weekend (4 day weekend!!). I do have an interview on Monday, so good time to take a break so I can freak out about that instead (not really).
+
+## Round 2
+
+2nd Round of #100DaysOfCode is at [Bitbucket repo](https://femmequity@bitbucket.org/femmequity/book_reports/src/5c96c8c819f196bfd706b298b55662996f8ec191/log.md?at=master).
