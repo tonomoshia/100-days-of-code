@@ -601,11 +601,90 @@ Chelsea responded to her email that her account manager says they are looking fo
 
 ### Day 94: June 23, 2017
 
-- [ ] Listen to [Complete Developer Podcast: Laws of Programming](http://completedeveloperpodcast.com/episode-96/)
+- [x] Read to page 17 in [Turn This Ship Around]() For Agile Florida Book Club.
+
+- [ ] Listen to [Complete Developer Podcast: Laws of Programming](http://completedeveloperpodcast.com/episode-96/) (Started, did not finish)
 
 - [ ] Update resume, again.
 
-- [ ] Finish Chapter 3 (lecture 16 and 17) of [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/).
+- [ ] Finish Chapter 3 (lecture 16 and 17) of [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/). **(Finished 16 at lunch.)**
 
-- [ ] Read article on WP Beginner [How to Properly Move Your Blog from WordPress.com to WordPress.org](http://www.wpbeginner.com/wp-tutorials/how-to-properly-move-your-blog-from-wordpress-com-to-wordpress-org/ ) and watch the [video](https://www.youtube.com/watch?v=zln3ZkCd00E). My domain with WordPress.com is expiring August 22, so I would like to get this done. I thought about it last year but it seemed like an unnecessary hassle despite the fact that I am paying for hosting at bluehost.com that I am not using. Bleh.
+### Day 95: June 24, 2017
 
+- [x] Finish Chapter 3 (lecture 16 and 17) of [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/). (Finished 16 yesterday.)
+
+- [x] Read article on WP Beginner [How to Properly Move Your Blog from WordPress.com to WordPress.org](http://www.wpbeginner.com/wp-tutorials/how-to-properly-move-your-blog-from-wordpress-com-to-wordpress-org/ ) and watch the [video](https://www.youtube.com/watch?v=zln3ZkCd00E). My domain with WordPress.com is expiring August 22, so I would like to get this done. I thought about it last year but it seemed like an unnecessary hassle despite the fact that I am paying for hosting at bluehost.com that I am not using. Bleh.
+
+- [ ] Update resume, again.
+
+- [x] Finish listening to [Complete Developer Podcast: Laws of Programming](http://completedeveloperpodcast.com/episode-96/)
+
+- [x] Start Chapter 4 of [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/). (Did lecture 18 - Modify homepage and import sample.)
+
+### June 25-26, 2017
+
+Doctor's appointment, sick baby and speech therapy appointment cut into my usual coding time. Used all the driving I had to to do to catch up on podcasts:
+
+
+1. WordPress Reources Podcast 342: [Learn More About WordPress with These Blogs](https://yourwebsiteengineer.com/342-learn-more-about-wordpress-with-these-blogs/)
+
+2. Complete Developer Podcast: [The Fragile Manifesto](http://completedeveloperpodcast.com/episode-77/) about what can go wrong when Scrum is implemented incorrectly. Scrum Anti-Patterns.
+
+3. Complete Developer Podcast: [Community Involvement](http://completedeveloperpodcast.com/episode-80/)
+
+### Day 96: June 27, 2017
+
+- [x] Resolved account limitation issue with Business Paypal account.
+
+- [x] Attended [Meetup on SAFe](https://www.meetup.com/South-Florida-Agile-Association/events/239519979/) at 7pm
+
+- [ ] Started working in lecture 19 of Chapter 4 [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/). Mark when finished.
+
+**Your Website Engineer Podcasts:**
+1. [Episode 331: Know Your Visitors: Google Analytics](https://yourwebsiteengineer.com/331-know-your-visitors-google-analytics/)
+
+2. [Epsiode 341: A Look at WordPress 4.8](https://yourwebsiteengineer.com/341-a-look-at-wordpress-4-8/)
+
+3. [Episode 340: Learn More WordPress with these Other Podcasts](https://yourwebsiteengineer.com/340-learn-more-wordpress-with-these-other-podcasts/)
+
+4. [Episode 339: How to Build a Portfolio Website](https://yourwebsiteengineer.com/336-how-to-build-a-business-website-with-wordpress/)
+
+5. [Episode 336: How to Build a Business Website with WordPress](https://yourwebsiteengineer.com/336-how-to-build-a-business-website-with-wordpress/)
+
+
+### Day 97: June 28, 2017
+
+- [x] Finished lecture 19 of Chapter 4 [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/).
+
+
+**Podcasts:**
+
+1. [Your Website Engineer Podcast: Episode 239 – Customizing Your WordPress Login Screen](https://yourwebsiteengineer.com/239-customizing-your-wordpress-login-screen/)
+
+2. [Your Website Engineer Podcast: Episode 317 – Work on Your Sites on Your Computer with Local](https://yourwebsiteengineer.com/317-work-sites-computer-local/)
+
+2. [Learn to Code with Me Season 3, Episode 13: High School Dropout to Salesforce Admin with Zac Otero](http://learntocodewith.me/podcast/salesforce-admin-zac-otero/)
+
+### Day 98: June 29, 2017
+
+ - [x] Updated resume and sent to new recruiter. I am meeting with her next Monday.
+
+ - [x] Completed lecture 20 of Chapter 4 [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/).
+
+### Day 99: June 30, 2017
+
+ - [x] Completed lecture 21 of Chapter 4 [The Complete WordPress Website Business Course](https://www.udemy.com/the-complete-wordpress-website-business-course/learn/).
+
+### Day 100: July 1, 2017
+
+At [Saturday Coding Club Meetup](https://www.meetup.com/broward-ruby/events/240992829/) we got a chance to look at the guts of [Steve Witte's](https://github.com/stevetwitte) new side project, a twitter clone for investment time, time spent working on internal software for a company.
+
+I also worked on the migration of [my wordpress.com site](https://www.tonomoshia.com) to a wordpress.org installation](https://www.paralegalprogrammer.com) on Bluehost. I do think some of my posts/pages did not make it over. I created a [staging environment](http://www.paralegalprogrammer.com/staging/1499/), installed a new theme (Bento) set up Google Anlaytics, Jetpack and Akismet and updated some pages and posts. Read the [theme manual for Bento](http://satoristudio.net/bento-manual/)
+
+Finally started my draft on my post about the book Remote. I finished it May 20, but have been unable to sit down and get started. I started today and saved it as a draft. As I have been thinking about over this past 6 weeks, it has been become a gigantic post with resources and ideas that are not from the book. I may make a separate page just for Remote Workers resources to include books, podcasts and groups.
+
+Yay for Day 100. Have not decided what is better. Should I start a new 100, or continue adding days. I have seen both. I have also seen the 301 day challenge. the remaining 64 are used for job search. Also the 100 day deep work challenge. I do feel I need something to keep me moving forward and working on a more or less daily basis. Otherwise I will "get to it when I get to it" and that means not getting to it. I need a commitment. I will think it over over the weekend (4 day weekend!!). I do have an interview on Monday, so good time to take a break so I can freak out about that instead (not really).
+
+## Round 2
+
+2nd Round of #100DaysOfCode is at [Bitbucket repo](https://femmequity@bitbucket.org/femmequity/book_reports/src/5c96c8c819f196bfd706b298b55662996f8ec191/log.md?at=master).
