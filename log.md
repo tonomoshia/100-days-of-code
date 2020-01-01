@@ -687,4 +687,7 @@ Yay for Day 100. Have not decided what is better. Should I start a new 100, or c
 
 ## Round 2
 
-2nd Round of #100DaysOfCode is at [Bitbucket repo](https://femmequity@bitbucket.org/femmequity/book_reports/src/5c96c8c819f196bfd706b298b55662996f8ec191/log.md?at=master).
+[2nd Round of #100DaysOfCode][1].
+
+[1]: https://github.com/tonomoshia/100-days-of-code/blob/master/round_2_log.md "Round 2"
+
